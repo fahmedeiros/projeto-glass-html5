@@ -56,8 +56,23 @@ nav#menu li {
 	display: block;
 	display: inline-block;
 	background-color: #dddddd;
+	transition: background-color 1s;
+}
+
+nav#menu li:hover {
+	background-color: #606060;
 }
 
 nav#menu h1 {
 	display: none;
+}
+
+nav#menu a {
+	color: #000000;
+	text-decoration: none;
+}
+
+nav#menu a:hover {
+	color: #ffffff;
+	text-decoration: underline;
 }
