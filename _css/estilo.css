@@ -32,6 +32,7 @@ figure.foto-legenda figcaption {
 	padding: 10px;
 	position: absolute;
 	box-sizing: border-box;
+	transition: opacity 1s;
 	background-color: rgba(0, 0, 0, .4);
 }
 
