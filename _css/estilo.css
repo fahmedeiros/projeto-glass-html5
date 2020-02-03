@@ -127,6 +127,20 @@ section#corpo {
 	border-right: 1px solid #606060; 
 }
 
+table#tabelaspac {
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 0px;
+	border: 1px solid #606060;
+}
+
+table#tabelaspac td {
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+	border: 1px solid #606060;
+}
+
 aside#lateral {
 	float: right;
 	width: 350px;
