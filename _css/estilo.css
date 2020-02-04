@@ -141,6 +141,31 @@ table#tabelaspac td {
 	border: 1px solid #606060;
 }
 
+table#tabelaspac td.ce {
+	color: #ffffff;
+	font-weight: bold;
+	vertical-align: top;
+	background-color: #606060;
+}
+
+table#tabelaspac td.cd {
+	background-color: #cecece;
+}
+
+table#tabelaspac caption {
+	color: #888888;
+	font-size: 13pt;
+	font-weight: bolder;
+}
+
+table#tabelaspac caption span {
+	float: right;
+	color: #000000;
+	display: block;
+	font-size: 8pt;
+	margin-top: 10px;
+}
+
 aside#lateral {
 	float: right;
 	width: 350px;
