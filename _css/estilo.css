@@ -232,6 +232,10 @@ aside#lateral h2 {
 	background-color: #606060;
 }
 
+video#video_lateral {
+	width: 100%;
+}
+
 footer#rodape {
 	clear: both;
 	border-top: 1px solid #606060;
